@@ -1,0 +1,6 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+E:\Repositorys\Unidad4\Ragdoll\Src\Game.cpp(60,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\Repositorys\Unidad4\Ragdoll\Src\Game.cpp(60,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dEmptyApp.vcxproj -> E:\Repositorys\Unidad4\Ragdoll\Bin\Debug\Box2dEmptyApp.exe
